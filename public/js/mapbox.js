@@ -1,4 +1,4 @@
-import mapboxgl from 'mapbox-gl';
+//import mapboxgl from 'mapbox-gl';
 
 export const displayMap = (locations) => {
   mapboxgl.accessToken =
